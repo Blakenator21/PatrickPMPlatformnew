@@ -1,0 +1,10 @@
+{
+  "description": "Create and customize stunning preservice designs effortlessly, tailored for educators and institutions to enhance their visual presentations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
